@@ -70,7 +70,7 @@ https://www.figma.com/design/WkLssXxXDzrscMeAunsLnz/TECH-TINKERERS?node-id=0-1&t
 
 Bolt Prototype:
 
-https://bolt.new/p/68118683
+https://ai-career-roadmap-ge-95ba.bolt.host
 
 ---
 
